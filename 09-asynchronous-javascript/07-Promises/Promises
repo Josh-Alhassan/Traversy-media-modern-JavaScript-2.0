@@ -1,0 +1,8 @@
+Promises
+
+A promise is an object that represents the eventual completion or the failure of an asynchronous operation.
+
+When we use a fetch api, it returns a promise.
+
+Promise is non-blocking. It goes through the micro task queue.
+
